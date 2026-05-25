@@ -1,4 +1,4 @@
-# 天猫校园去广告 & 趣智校园去广告
+# 天猫校园&智趣校园去广告
 
 > **关键词 / Keywords：** 天猫校园去广告、趣智校园去广告、智趣校园去广告、天猫校园广告屏蔽、趣智校园广告拦截、天猫校园 LSPosed 模块、趣智校园 Xposed 模块、校园 App 去广告、TmallCampus AdBlock、QuzhiCampus AdBlock
 
